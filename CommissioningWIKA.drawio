@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T08:27:38.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pRkfsg2F4cubcnB-B6ha" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T03:38:58.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SgaRoie6qHSyzYZle3aA" version="21.5.2" type="github">
   <diagram name="Page-1" id="oD8MVYjC0Df54EcWiSj7">
-    <mxGraphModel dx="1593" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="3374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5684,8 +5684,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SvHsmcn8wAkfC9VD8bS5-1516" value="motor solo run" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="8640" width="100" height="30" as="geometry" />
+        <mxCell id="SvHsmcn8wAkfC9VD8bS5-1516" value="motor solo run (belum)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="8620" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SvHsmcn8wAkfC9VD8bS5-1517" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvHsmcn8wAkfC9VD8bS5-2" target="SvHsmcn8wAkfC9VD8bS5-96">
           <mxGeometry relative="1" as="geometry" />
@@ -5921,6 +5921,9 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SvHsmcn8wAkfC9VD8bS5-1579" value="motor solo run (belum)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9420" y="13" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
