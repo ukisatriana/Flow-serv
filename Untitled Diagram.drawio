@@ -1,9 +1,106 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="2Y_VTfH1V45dgz86GOVy">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-6" target="rOWhNYUMoMen7fYs-kOh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-6" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-7" target="rOWhNYUMoMen7fYs-kOh-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="320" />
+              <mxPoint x="426" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-7" target="rOWhNYUMoMen7fYs-kOh-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="260" />
+              <mxPoint x="240" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-7" target="rOWhNYUMoMen7fYs-kOh-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="260" />
+              <mxPoint x="610" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-7" target="rOWhNYUMoMen7fYs-kOh-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="260" />
+              <mxPoint x="100" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-7" target="rOWhNYUMoMen7fYs-kOh-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="260" />
+              <mxPoint x="760" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-7" value="landing page berburu restu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="170" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-13" target="rOWhNYUMoMen7fYs-kOh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-13" target="rOWhNYUMoMen7fYs-kOh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-13" target="rOWhNYUMoMen7fYs-kOh-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-13" value="section pilih quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="350" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-17" target="rOWhNYUMoMen7fYs-kOh-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-17" value="calculator nikah" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-19" value="section siap nikah" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOWhNYUMoMen7fYs-kOh-21" target="rOWhNYUMoMen7fYs-kOh-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-21" value="page quiz" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="213" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-24" value="flip card" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-33" value="section time capsule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-36" value="section book recomen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-39" value="section about us" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-41" value="calculator nikah result" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355.25" y="580" width="144.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-43" value="page quiz result" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="213" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOWhNYUMoMen7fYs-kOh-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
