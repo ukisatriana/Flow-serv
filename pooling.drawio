@@ -1424,6 +1424,9 @@
         <mxCell id="nkrZy5tVVxNumanCUvK7-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="340" y="810" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nkrZy5tVVxNumanCUvK7-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="860" y="210" width="30" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
