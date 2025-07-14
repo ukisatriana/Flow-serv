@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.0">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2095" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1959" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1405,6 +1405,24 @@
         </mxCell>
         <mxCell id="MViRXg2M-wg5gGB6dcBj-8" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;DATABASE_URL&lt;/span&gt;=&lt;span style=&quot;color: #98c379;&quot;&gt;&quot;postgresql://ukisatriana@localhost:5432/pooling_system&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;PORT&lt;/span&gt;=&lt;span style=&quot;color: #98c379;&quot;&gt;5000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="1180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkrZy5tVVxNumanCUvK7-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1260" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkrZy5tVVxNumanCUvK7-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1390" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkrZy5tVVxNumanCUvK7-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="60" y="750" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkrZy5tVVxNumanCUvK7-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkrZy5tVVxNumanCUvK7-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="200" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkrZy5tVVxNumanCUvK7-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="340" y="810" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
