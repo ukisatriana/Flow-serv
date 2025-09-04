@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1148" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2514" dy="2654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2372,28 +2372,28 @@
             <mxPoint x="1060" y="-780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtGytn7N7d9bzt016BmV-1" target="LtGytn7N7d9bzt016BmV-6">
+        <mxCell id="LtGytn7N7d9bzt016BmV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LtGytn7N7d9bzt016BmV-1" target="LtGytn7N7d9bzt016BmV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-1" value="Digital Engineering&lt;br&gt;(gatau apa namanya)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtGytn7N7d9bzt016BmV-1" value="Digital Engineering&lt;br&gt;(gatau apa namanya)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2095" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-2" value="DigitalTwin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtGytn7N7d9bzt016BmV-2" value="DigitalTwin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1850" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtGytn7N7d9bzt016BmV-3" target="LtGytn7N7d9bzt016BmV-14">
+        <mxCell id="LtGytn7N7d9bzt016BmV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LtGytn7N7d9bzt016BmV-3" target="LtGytn7N7d9bzt016BmV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-3" value="Opit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtGytn7N7d9bzt016BmV-3" value="Opit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2010" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-4" value="Borlog - Data Soil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtGytn7N7d9bzt016BmV-4" value="Borlog - Data Soil" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2170" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-5" value="Engineering Leason Learn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtGytn7N7d9bzt016BmV-5" value="Engineering Leason Learn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LtGytn7N7d9bzt016BmV-6" target="LtGytn7N7d9bzt016BmV-2">
+        <mxCell id="LtGytn7N7d9bzt016BmV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LtGytn7N7d9bzt016BmV-6" target="LtGytn7N7d9bzt016BmV-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2155" y="-660" />
@@ -2401,7 +2401,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtGytn7N7d9bzt016BmV-6" target="LtGytn7N7d9bzt016BmV-5">
+        <mxCell id="LtGytn7N7d9bzt016BmV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtGytn7N7d9bzt016BmV-6" target="LtGytn7N7d9bzt016BmV-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2155" y="-660" />
@@ -2409,7 +2409,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtGytn7N7d9bzt016BmV-6" target="LtGytn7N7d9bzt016BmV-4">
+        <mxCell id="LtGytn7N7d9bzt016BmV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtGytn7N7d9bzt016BmV-6" target="LtGytn7N7d9bzt016BmV-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2155" y="-660" />
@@ -2417,7 +2417,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtGytn7N7d9bzt016BmV-6" target="LtGytn7N7d9bzt016BmV-3">
+        <mxCell id="LtGytn7N7d9bzt016BmV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtGytn7N7d9bzt016BmV-6" target="LtGytn7N7d9bzt016BmV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2155" y="-660" />
@@ -2425,16 +2425,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtGytn7N7d9bzt016BmV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2005" y="-702.5" width="300" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-14" value="Carbon Calculation&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Dashboard ESG&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtGytn7N7d9bzt016BmV-14" value="Carbon Calculation&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Dashboard ESG&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2010" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtGytn7N7d9bzt016BmV-16" target="LtGytn7N7d9bzt016BmV-2">
+        <mxCell id="LtGytn7N7d9bzt016BmV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LtGytn7N7d9bzt016BmV-16" target="LtGytn7N7d9bzt016BmV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtGytn7N7d9bzt016BmV-16" target="LtGytn7N7d9bzt016BmV-3">
+        <mxCell id="LtGytn7N7d9bzt016BmV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LtGytn7N7d9bzt016BmV-16" target="LtGytn7N7d9bzt016BmV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1990" y="-720" />
@@ -2442,8 +2442,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LtGytn7N7d9bzt016BmV-16" value="Data Project&lt;br&gt;(PIS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtGytn7N7d9bzt016BmV-16" value="Data Project&lt;br&gt;(PIS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="-740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wr6RLXoJz4Rl2upFSu5C-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
