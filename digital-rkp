@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tAtPqC6Xbx3WGoeWpXbf">
-    <mxGraphModel dx="996" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1556" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
             <mxPoint x="100" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5L-8WDGrEO5FWoXfoVlt-30" parent="5L-8WDGrEO5FWoXfoVlt-26" style="html=1;whiteSpace=wrap;" value="pilih menu&lt;div&gt;membuat proyek braru&lt;/div&gt;" vertex="1">
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-30" parent="5L-8WDGrEO5FWoXfoVlt-26" style="html=1;whiteSpace=wrap;" value="submit BAB untuk di review" vertex="1">
           <mxGeometry height="50" width="200" x="40" y="100" as="geometry" />
         </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-75" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-26" source="5L-8WDGrEO5FWoXfoVlt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-30">
@@ -113,7 +113,7 @@
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-52" parent="5L-8WDGrEO5FWoXfoVlt-39" style="html=1;whiteSpace=wrap;" value="teruskan BAB ke approver&lt;div&gt;sesuai dengan approval matrix&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="40" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="5L-8WDGrEO5FWoXfoVlt-53" parent="5L-8WDGrEO5FWoXfoVlt-39" style="html=1;whiteSpace=wrap;" value="pilih menu&lt;div&gt;membuat proyek braru&lt;/div&gt;" vertex="1">
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-53" parent="5L-8WDGrEO5FWoXfoVlt-39" style="html=1;whiteSpace=wrap;" value="status &quot;revision requiered&quot;&amp;nbsp;&lt;div&gt;+ notifikasi ke user project&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="40" y="340" as="geometry" />
         </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-68" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-39" source="5L-8WDGrEO5FWoXfoVlt-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-58">
@@ -216,6 +216,151 @@
         </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-74" edge="1" parent="1" source="5L-8WDGrEO5FWoXfoVlt-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-85" parent="1" style="swimlane;" value="user project" vertex="1">
+          <mxGeometry height="770" width="280" x="1280" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-89" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-85" source="5L-8WDGrEO5FWoXfoVlt-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40.000000000000455" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-129" parent="5L-8WDGrEO5FWoXfoVlt-85" style="html=1;whiteSpace=wrap;" value="input BAB III" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-130" parent="5L-8WDGrEO5FWoXfoVlt-85" style="html=1;whiteSpace=wrap;" value="input BAB IV" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-131" parent="5L-8WDGrEO5FWoXfoVlt-85" style="html=1;whiteSpace=wrap;" value="input BAB V" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-132" parent="5L-8WDGrEO5FWoXfoVlt-85" style="html=1;whiteSpace=wrap;" value="input BAB VI" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-133" parent="5L-8WDGrEO5FWoXfoVlt-85" style="html=1;whiteSpace=wrap;" value="input BAB VII" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-136" parent="5L-8WDGrEO5FWoXfoVlt-85" style="html=1;whiteSpace=wrap;" value="input BAB X" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-91" parent="1" style="swimlane;" value="system" vertex="1">
+          <mxGeometry height="770" width="280" x="1560" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-137" parent="5L-8WDGrEO5FWoXfoVlt-91" style="html=1;whiteSpace=wrap;" value="ubah status &#39;&quot;submited&quot; dan&lt;div&gt;kirim notifikasi ke reviewer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="50" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-138" parent="5L-8WDGrEO5FWoXfoVlt-91" style="html=1;whiteSpace=wrap;" value="status &quot;revision requiered&quot;&amp;nbsp;&lt;div&gt;&lt;div&gt;+ notifikasi ke user project&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="50" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-139" parent="5L-8WDGrEO5FWoXfoVlt-91" style="html=1;whiteSpace=wrap;" value="teruskan BAB ke approver&lt;div&gt;sesuai dengan approval matrix&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="50" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-142" parent="5L-8WDGrEO5FWoXfoVlt-91" style="html=1;whiteSpace=wrap;" value="status BAB &quot;approved&quot;&lt;div&gt;(tercatat pada audit trail)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="50" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-143" parent="5L-8WDGrEO5FWoXfoVlt-91" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="135" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-144" parent="5L-8WDGrEO5FWoXfoVlt-91" style="html=1;whiteSpace=wrap;" value="status &quot;revision requiered&quot;&amp;nbsp;&lt;div&gt;+ notifikasi ke user project&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="50" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-156" parent="5L-8WDGrEO5FWoXfoVlt-91" style="html=1;whiteSpace=wrap;" value="&lt;div&gt;Executive summary&lt;/div&gt;&quot;generate semua menjadi BAB I&quot;" vertex="1">
+          <mxGeometry height="50" width="200" x="50" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-158" connectable="0" parent="5L-8WDGrEO5FWoXfoVlt-91" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="approve" vertex="1">
+          <mxGeometry x="150" y="749.9999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-99" parent="1" style="swimlane;" value="reviewer" vertex="1">
+          <mxGeometry height="770" width="280" x="1840" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-145" parent="5L-8WDGrEO5FWoXfoVlt-99" style="html=1;whiteSpace=wrap;" value="periksa BAB dan berikan&lt;div&gt;komentar / catatan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="47.76333333333332" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-146" parent="5L-8WDGrEO5FWoXfoVlt-99" style="rhombus;whiteSpace=wrap;html=1;" value="BAB sesuai standar ?" vertex="1">
+          <mxGeometry height="80" width="160" x="67.76333333333332" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-147" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-99" source="5L-8WDGrEO5FWoXfoVlt-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" target="5L-8WDGrEO5FWoXfoVlt-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-148" connectable="0" parent="5L-8WDGrEO5FWoXfoVlt-99" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="belum&lt;div&gt;sesuai&lt;/div&gt;" vertex="1">
+          <mxGeometry x="32.23000000000002" y="500.0666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-149" connectable="0" parent="5L-8WDGrEO5FWoXfoVlt-99" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sesuai" vertex="1">
+          <mxGeometry x="85.0966684429327" y="540.0149206344977" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-103" parent="1" style="swimlane;" value="approver" vertex="1">
+          <mxGeometry height="770" width="280" x="2120" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-150" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-103" source="5L-8WDGrEO5FWoXfoVlt-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5L-8WDGrEO5FWoXfoVlt-152" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-151" parent="5L-8WDGrEO5FWoXfoVlt-103" style="html=1;whiteSpace=wrap;" value="periksa BAB dan putuskan&lt;div&gt;approval&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="340.06999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-152" parent="5L-8WDGrEO5FWoXfoVlt-103" style="rhombus;whiteSpace=wrap;html=1;" value="approve ?" vertex="1">
+          <mxGeometry height="70" width="80" x="100" y="415.06999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-153" connectable="0" parent="5L-8WDGrEO5FWoXfoVlt-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="approve" vertex="1">
+          <mxGeometry x="141" y="500.0699999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="buat workflow yang menggambarkan dari bab 1 sampai bab 10" vertex="1">
+          <mxGeometry height="30" width="310" x="580" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-121" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="hal yang pertama perlu dimasukan adalah bab II&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;karna isi bab II merupakan isian dari personil dari project tersebut&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="480" x="580" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-122" parent="1" style="swimlane;" value="user divisi" vertex="1">
+          <mxGeometry height="770" width="280" x="1000" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-123" parent="5L-8WDGrEO5FWoXfoVlt-122" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="125" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-124" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-122" source="5L-8WDGrEO5FWoXfoVlt-123" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-125" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-128" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-122" source="5L-8WDGrEO5FWoXfoVlt-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-125" parent="5L-8WDGrEO5FWoXfoVlt-122" style="html=1;whiteSpace=wrap;" value="input BAB II&lt;div&gt;(eksisting hcms)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-127" parent="5L-8WDGrEO5FWoXfoVlt-122" style="html=1;whiteSpace=wrap;" value="Assign User" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-154" edge="1" parent="1" source="5L-8WDGrEO5FWoXfoVlt-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="945" />
+              <mxPoint x="1300" y="810" />
+              <mxPoint x="1420" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-161" parent="1" style="html=1;whiteSpace=wrap;" value="input BAB VIII" vertex="1">
+          <mxGeometry height="50" width="200" x="1320" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-162" parent="1" style="html=1;whiteSpace=wrap;" value="input BAB IX" vertex="1">
+          <mxGeometry height="50" width="200" x="1320" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="WBS Tools SAP" vertex="1">
+          <mxGeometry height="30" width="480" x="1320" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="CRM di BAB I" vertex="1">
+          <mxGeometry height="30" width="100" x="999" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-165" parent="1" style="html=1;whiteSpace=wrap;" value="input BAB I" vertex="1">
+          <mxGeometry height="50" width="200" x="999" y="1688" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="PIS di BAB I" vertex="1">
+          <mxGeometry height="31" width="98" x="1001" y="1639" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-167" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="SAP BAB I" vertex="1">
+          <mxGeometry height="30" width="98" x="1001" y="1617" as="geometry" />
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Exceutive summary dari setiap BAB" vertex="1">
+          <mxGeometry height="30" width="220" x="990" y="1740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
