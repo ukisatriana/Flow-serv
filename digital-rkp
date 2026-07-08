@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tAtPqC6Xbx3WGoeWpXbf">
-    <mxGraphModel dx="1556" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,9 +26,6 @@
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-8" parent="5L-8WDGrEO5FWoXfoVlt-1" style="html=1;whiteSpace=wrap;" value="tentukan tipe &amp;amp; klasifikasi p&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;royek&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="40" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="5L-8WDGrEO5FWoXfoVlt-9" parent="5L-8WDGrEO5FWoXfoVlt-1" style="html=1;whiteSpace=wrap;" value="lengkapi data yang belum tersedia&lt;div&gt;secara manual&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="200" x="40" y="275" as="geometry" />
-        </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-2" parent="1" style="swimlane;" value="System" vertex="1">
           <mxGeometry height="600" width="290" x="360" y="40" as="geometry">
             <mxRectangle height="30" width="80" x="360" y="40" as="alternateBounds" />
@@ -43,13 +40,26 @@
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-10" parent="5L-8WDGrEO5FWoXfoVlt-2" style="html=1;whiteSpace=wrap;" value="sinkronisasi data awal dari&amp;nbsp;&lt;div&gt;CRM &amp;amp; HCMS&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="205" x="42.5" y="180" as="geometry" />
         </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-83" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-2" source="5L-8WDGrEO5FWoXfoVlt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="268" y="300" />
+              <mxPoint x="268" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-84" connectable="0" parent="5L-8WDGrEO5FWoXfoVlt-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="0.0994" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-11" parent="5L-8WDGrEO5FWoXfoVlt-2" style="rhombus;whiteSpace=wrap;html=1;" value="data lengkap ?" vertex="1">
           <mxGeometry height="80" width="115" x="87.5" y="260" as="geometry" />
         </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-22" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-2" source="5L-8WDGrEO5FWoXfoVlt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5L-8WDGrEO5FWoXfoVlt-12" parent="5L-8WDGrEO5FWoXfoVlt-2" style="html=1;whiteSpace=wrap;" value="generate struktur bab / sub bab&lt;div&gt;dari template aktif (mpcp)&lt;/div&gt;" vertex="1">
+        <mxCell id="5L-8WDGrEO5FWoXfoVlt-12" parent="5L-8WDGrEO5FWoXfoVlt-2" style="html=1;whiteSpace=wrap;" value="generate struktur bab / sub bab&lt;div&gt;(mpcp)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="42.5" y="380" as="geometry" />
         </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-25" edge="1" parent="5L-8WDGrEO5FWoXfoVlt-2" source="5L-8WDGrEO5FWoXfoVlt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-3">
@@ -70,22 +80,6 @@
         </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-16" edge="1" parent="1" source="5L-8WDGrEO5FWoXfoVlt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5L-8WDGrEO5FWoXfoVlt-10" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5L-8WDGrEO5FWoXfoVlt-18" edge="1" parent="1" source="5L-8WDGrEO5FWoXfoVlt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="5L-8WDGrEO5FWoXfoVlt-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5L-8WDGrEO5FWoXfoVlt-24" connectable="0" parent="5L-8WDGrEO5FWoXfoVlt-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
-          <mxGeometry relative="1" x="0.0275" y="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5L-8WDGrEO5FWoXfoVlt-19" edge="1" parent="1" source="5L-8WDGrEO5FWoXfoVlt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.361;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;" target="5L-8WDGrEO5FWoXfoVlt-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="290" />
-              <mxPoint x="489" y="290" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="5L-8WDGrEO5FWoXfoVlt-26" parent="1" style="swimlane;" value="user project" vertex="1">
           <mxGeometry height="560" width="280" x="940" y="40" as="geometry" />
